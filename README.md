@@ -120,13 +120,13 @@ with your Anvil private key.
 ##  🗂️ Project Structure
 
 ### 📦 Foundry-Fund-Me
-├── 📁 lib/               → External dependencies
-├── 📁 script/            → Deployment & interaction scripts
-├── 📁 src/               → Core smart contracts
-│   └── 📄 FundMe.sol     → Main contract
-├── 📁 test/              → Test cases
-├── 📄 foundry.toml       → Foundry config
-└── 📄 README.md          → You're here!
+#### ├── 📁 lib/               → External dependencies
+#### ├── 📁 script/            → Deployment & interaction scripts
+#### ├── 📁 src/               → Core smart contracts
+#### │   └── 📄 FundMe.sol     → Main contract
+#### ├── 📁 test/              → Test cases
+#### ├── 📄 foundry.toml       → Foundry config
+#### └── 📄 README.md          → You're here! 
 ---
 ## 📜 License
 
